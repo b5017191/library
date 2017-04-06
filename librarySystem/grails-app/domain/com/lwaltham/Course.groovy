@@ -8,6 +8,11 @@ class Course {
 	String department
 	String description
 	String studyMode
+
+static hasMan=[student:Student]
+
+String toString(){
+return title}
 	
 	
 

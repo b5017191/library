@@ -2,5 +2,5 @@ package com.lwaltham
 
 class CourseController {
 
-    def scaffold=CourseController
+    def scaffold=Course
 }

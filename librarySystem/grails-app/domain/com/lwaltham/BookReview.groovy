@@ -2,10 +2,15 @@ package com.lwaltham
 
 class BookReview {
 
-	String book
-	String dateCreated
-	String student
+	Book book
+	Date dateCreated
+	Student student
 	String review
+
+String toString(){
+return review}
+
+
 	
 	
 	

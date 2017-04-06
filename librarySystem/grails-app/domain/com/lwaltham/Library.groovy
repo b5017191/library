@@ -7,6 +7,11 @@ class Library {
 	String openingHours
 	String location
 	String studySpaces
+
+static hasMany=[librarians:Librarian, students:Student, books:Book]
+
+String toString(){
+return building}
 	
 
 static constrains={
